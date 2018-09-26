@@ -1,0 +1,12 @@
+D:\Development\Visual Studio\2017\Udemy VB.NET\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Development\Visual Studio\2017\Udemy VB.NET\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Development\Visual Studio\2017\Udemy VB.NET\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Development\Visual Studio\2017\Udemy VB.NET\Calculator\Calculator\bin\Debug\Calculator.xml
+D:\Development\Visual Studio\2017\Udemy VB.NET\Calculator\Calculator\obj\Debug\Calculator.vbprojAssemblyReference.cache
+D:\Development\Visual Studio\2017\Udemy VB.NET\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Development\Visual Studio\2017\Udemy VB.NET\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+D:\Development\Visual Studio\2017\Udemy VB.NET\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+D:\Development\Visual Studio\2017\Udemy VB.NET\Calculator\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+D:\Development\Visual Studio\2017\Udemy VB.NET\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Development\Visual Studio\2017\Udemy VB.NET\Calculator\Calculator\obj\Debug\Calculator.xml
+D:\Development\Visual Studio\2017\Udemy VB.NET\Calculator\Calculator\obj\Debug\Calculator.pdb
